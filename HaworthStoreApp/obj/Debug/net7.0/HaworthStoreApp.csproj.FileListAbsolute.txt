@@ -1,0 +1,17 @@
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/bin/Debug/net7.0/HaworthStoreApp
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/bin/Debug/net7.0/HaworthStoreApp.deps.json
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/bin/Debug/net7.0/HaworthStoreApp.runtimeconfig.json
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/bin/Debug/net7.0/HaworthStoreApp.dll
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/bin/Debug/net7.0/HaworthStoreApp.pdb
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/HaworthStoreApp.csproj.AssemblyReference.cache
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/HaworthStoreApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/HaworthStoreApp.AssemblyInfoInputs.cache
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/HaworthStoreApp.AssemblyInfo.cs
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/HaworthStoreApp.csproj.CoreCompileInputs.cache
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/HaworthStoreApp.dll
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/refint/HaworthStoreApp.dll
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/HaworthStoreApp.pdb
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/HaworthStoreApp.genruntimeconfig.cache
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/ref/HaworthStoreApp.dll
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/bin/Debug/net7.0/Newtonsoft.Json.dll
+/Users/Dileep/Desktop/test/HaworthStoreApp/HaworthStoreApp/obj/Debug/net7.0/HaworthStoreApp.csproj.CopyComplete
